@@ -4,6 +4,11 @@ body {background-color: hsla(120, 100%, 25%, 0.3);
       color: black;
      }
 
+#image {height: 400px;
+        width: 400px;
+        opacity: 1.0;
+       }
+
 #construction {background-color: yellow;
                text-align: center;
                font-color: red;
