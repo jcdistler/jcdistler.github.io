@@ -1,2 +1,9 @@
-body {background-color: blue
+body {background-color: blue;
+      text-align: center;
      }
+
+#construction {background-color: yellow;
+               text-align: center;
+               font-color: red;
+               
+               
